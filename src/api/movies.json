@@ -1,4 +1,5 @@
-[
+{
+  "movies":[
   {
     "name": "The Matrix 3",
     "rating": "8.1",
@@ -35,3 +36,4 @@
     "id": 13
   }
 ]
+}
